@@ -131,11 +131,11 @@ The project uses Microsoft SQL Server to perform comprehensive business analysis
 
 ### Executive Dashboard
 
-> )*
+>(Screenshot_20260721_083406_OneDrive.jpg )
 
 ### Month-to-Date (MTD) Dashboard
 
-
+>(
 
 ---
 
