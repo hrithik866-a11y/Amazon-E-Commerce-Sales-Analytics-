@@ -127,34 +127,19 @@ The project uses Microsoft SQL Server to perform comprehensive business analysis
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Dashboard
 
-> *(Insert Executive Dashboard Screenshot Here)*
+> )*
 
 ### Month-to-Date (MTD) Dashboard
 
-> *()*
 
-
-
-
-```
 
 ---
 
-##  Future Enhancements
-
-- Build predictive sales forecasting models.
-- Integrate real-time data pipelines.
-- Deploy dashboards using Power BI Service.
-- Expand KPI reporting with customer segmentation.
-- Incorporate machine learning for demand forecasting.
-
----
-
-## 👤 Author
+## Author
 
 **Hrithik Masih**
 
