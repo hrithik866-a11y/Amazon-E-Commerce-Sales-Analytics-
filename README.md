@@ -135,7 +135,7 @@ The project uses Microsoft SQL Server to perform comprehensive business analysis
 
 ### Month-to-Date (MTD) Dashboard
 
->(
+>(Screenshot_20260721_085022_OneDrive.jpg)
 
 ---
 
